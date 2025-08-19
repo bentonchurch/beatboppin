@@ -19,7 +19,6 @@ function App() {
         { type: "snare", time: 3, vol: 1 },
         { type: "snare", time: 3.5, vol: 1 },
         { type: "snare", time: 3.75, vol: 1 },
-        { type: "cymbal", time: 4, vol: 1 },
       ],
       loop: [
         { type: "kicker", time: 0, vol: 1 },
