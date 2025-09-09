@@ -2,348 +2,103 @@
 	"blast_block": {
 		"name": "Blast Block",
 		"samples": [
-			"blast-block/normal-1.wav",
-			"blast-block/normal-2.wav",
-			"blast-block/normal-3.wav",
-			"blast-block/normal-4.wav",
-			"blast-block/normal-5.wav",
-			"blast-block/normal-6.wav"
-		]
-	},
-	"blast_block_mute": {
-		"name": "Blast Block - Mute",
-		"samples": [
-			"blast-block/mute-1.wav",
-			"blast-block/mute-2.wav",
-			"blast-block/mute-3.wav",
-			"blast-block/mute-4.wav"
+			"blast-block.wav"
 		]
 	},
 	"clap": {
 		"name": "Clap",
 		"samples": [
-			"claps/normal-1.wav",
-			"claps/normal-2.wav",
-			"claps/normal-3.wav",
-			"claps/normal-4.wav",
-			"claps/normal-5.wav",
-			"claps/normal-6.wav",
-			"claps/normal-7.wav"
-		]
-	},
-	"clap_snappy": {
-		"name": "Clap - Snappy",
-		"samples": [
-			"claps/snappy-1.wav"
+			"clap.wav"
 		]
 	},
 	"cowbell": {
 		"name": "Cowbell",
 		"samples": [
-			"cowbell/normal-1.wav",
-			"cowbell/normal-2.wav",
-			"cowbell/normal-3.wav",
-			"cowbell/normal-4.wav",
-			"cowbell/normal-5.wav",
-			"cowbell/normal-6.wav"
+			"cowbell.wav"
 		]
 	},
-	"cowbell_mute": {
-		"name": "Cowbell - Mute",
+	"crash_cymbal": {
+		"name": "Crash Cymbal",
 		"samples": [
-			"cowbell/mute-1.wav",
-			"cowbell/mute-2.wav"
+			"crash-cymbal.wav"
 		]
 	},
-	"crash_cymbal_hit": {
-		"name": "Crash Cymbal - Hit",
+	"egg_shaker": {
+		"name": "Shaker",
 		"samples": [
-			"crash-cymbal/hit-1.wav",
-			"crash-cymbal/hit-2.wav",
-			"crash-cymbal/hit-3.wav",
-			"crash-cymbal/hit-4.wav",
-			"crash-cymbal/hit-5.wav"
-		]
-	},
-	"crash_cymbal_tap": {
-		"name": "Crash Cymbal - Tap",
-		"samples": [
-			"crash-cymbal/tap-1.wav",
-			"crash-cymbal/tap-2.wav",
-			"crash-cymbal/tap-3.wav",
-			"crash-cymbal/tap-4.wav"
-		]
-	},
-	"egg_shaker_long": {
-		"name": "Egg Shaker - Long",
-		"samples": [
-			"egg-shaker/long-1.wav",
-			"egg-shaker/long-2.wav",
-			"egg-shaker/long-3.wav",
-			"egg-shaker/long-4.wav",
-			"egg-shaker/long-5.wav"
-		]
-	},
-	"egg_shaker_short": {
-		"name": "Egg Shaker - Short",
-		"samples": [
-			"egg-shaker/short-1.wav",
-			"egg-shaker/short-2.wav",
-			"egg-shaker/short-3.wav",
-			"egg-shaker/short-4.wav",
-			"egg-shaker/short-5.wav"
+			"egg-shaker.wav"
 		]
 	},
 	"floor_tom": {
 		"name": "Floor Tom",
 		"samples": [
-			"floor-tom/normal-1.wav",
-			"floor-tom/normal-2.wav",
-			"floor-tom/normal-3.wav",
-			"floor-tom/normal-4.wav"
-		]
-	},
-	"floor_tom_mute": {
-		"name": "Floor Tom - Mute",
-		"samples": [
-			"floor-tom/mute-1.wav",
-			"floor-tom/mute-2.wav",
-			"floor-tom/mute-3.wav",
-			"floor-tom/mute-4.wav"
+			"floor-tom.wav"
 		]
 	},
 	"hi_hat_closed": {
-		"name": "Hi Hat - Closed",
+		"name": "Closed Hi Hat",
 		"samples": [
-			"hi-hat/closed-1.wav",
-			"hi-hat/closed-2.wav",
-			"hi-hat/closed-3.wav",
-			"hi-hat/closed-4.wav",
-			"hi-hat/closed-5.wav",
-			"hi-hat/closed-6.wav",
-			"hi-hat/closed-7.wav",
-			"hi-hat/closed-8.wav",
-			"hi-hat/closed-9.wav"
-		]
-	},
-	"hi_hat_crash": {
-		"name": "Hi Hat - Crash",
-		"samples": [
-			"hi-hat/crash-1.wav",
-			"hi-hat/crash-2.wav"
+			"hi-hat-closed.wav"
 		]
 	},
 	"hi_hat_open": {
-		"name": "Hi Hat - Open",
+		"name": "Open Hi Hat",
 		"samples": [
-			"hi-hat/open-1.wav",
-			"hi-hat/open-2.wav",
-			"hi-hat/open-3.wav",
-			"hi-hat/open-4.wav"
+			"hi-hat-open.wav"
 		]
 	},
 	"high_tom": {
 		"name": "High Tom",
 		"samples": [
-			"high-tom/normal-1.wav",
-			"high-tom/normal-2.wav",
-			"high-tom/normal-3.wav",
-			"high-tom/normal-4.wav",
-			"high-tom/normal-5.wav",
-			"high-tom/normal-6.wav",
-			"high-tom/normal-7.wav"
-		]
-	},
-	"high_tom_higher": {
-		"name": "High Tom - Higher",
-		"samples": [
-			"high-tom/higher-1.wav",
-			"high-tom/higher-2.wav"
+			"high-tom.wav"
 		]
 	},
 	"kick": {
 		"name": "Kick",
 		"samples": [
-			"kick/normal-1.wav",
-			"kick/normal-2.wav",
-			"kick/normal-3.wav",
-			"kick/normal-4.wav",
-			"kick/normal-5.wav"
-		]
-	},
-	"kick_low": {
-		"name": "Kick - Low",
-		"samples": [
-			"kick/low-1.wav",
-			"kick/low-2.wav",
-			"kick/low-3.wav",
-			"kick/low-4.wav",
-			"kick/low-5.wav"
+			"kick.wav"
 		]
 	},
 	"metronome": {
 		"name": "Metronome",
 		"samples": [
-			"metronome/normal-1.wav"
+			"metronome.wav"
 		]
 	},
 	"mid_tom": {
 		"name": "Mid Tom",
 		"samples": [
-			"mid-tom/normal-1.wav",
-			"mid-tom/normal-2.wav",
-			"mid-tom/normal-3.wav",
-			"mid-tom/normal-4.wav"
-		]
-	},
-	"mid_tom_mute": {
-		"name": "Mid Tom - Mute",
-		"samples": [
-			"mid-tom/mute-1.wav",
-			"mid-tom/mute-2.wav",
-			"mid-tom/mute-3.wav",
-			"mid-tom/mute-4.wav",
-			"mid-tom/mute-5.wav",
-			"mid-tom/mute-6.wav"
-		]
-	},
-	"processed_snare": {
-		"name": "Processed Snare",
-		"samples": [
-			"snare-processed/normal-1.wav",
-			"snare-processed/normal-2.wav",
-			"snare-processed/normal-3.wav",
-			"snare-processed/normal-4.wav",
-			"snare-processed/normal-5.wav",
-			"snare-processed/normal-6.wav",
-			"snare-processed/normal-7.wav",
-			"snare-processed/normal-8.wav",
-			"snare-processed/normal-9.wav"
-		]
-	},
-	"processed_snare_echo": {
-		"name": "Processed Snare - Echo",
-		"samples": [
-			"snare-processed/echo-1.wav"
-		]
-	},
-	"processed_snare_high": {
-		"name": "Processed Snare - High",
-		"samples": [
-			"snare-processed/high-1.wav",
-			"snare-processed/high-2.wav",
-			"snare-processed/high-3.wav"
-		]
-	},
-	"processed_snare_trill": {
-		"name": "Processed Snare - Trill",
-		"samples": [
-			"snare-processed/trill-1.wav"
+			"mid-tom.wav"
 		]
 	},
 	"ride_cymbal": {
 		"name": "Ride Cymbal",
 		"samples": [
-			"ride-cymbal/normal-1.wav",
-			"ride-cymbal/normal-2.wav",
-			"ride-cymbal/normal-3.wav",
-			"ride-cymbal/normal-4.wav",
-			"ride-cymbal/normal-5.wav",
-			"ride-cymbal/normal-6.wav",
-			"ride-cymbal/normal-7.wav"
+			"ride-cymbal.wav"
 		]
 	},
-	"ride_cymbal_hit": {
-		"name": "Ride Cymbal - Hit",
+	"sleigh_bells": {
+		"name": "Sleigh Bells",
 		"samples": [
-			"ride-cymbal/hit-1.wav",
-			"ride-cymbal/hit-2.wav",
-			"ride-cymbal/hit-3.wav"
-		]
-	},
-	"ride_cymbal_tap": {
-		"name": "Ride Cymbal - Tap",
-		"samples": [
-			"ride-cymbal/tap-1.wav",
-			"ride-cymbal/tap-2.wav",
-			"ride-cymbal/tap-3.wav"
-		]
-	},
-	"sleigh_bell_hit": {
-		"name": "Sleigh Bell - Hit",
-		"samples": [
-			"sleigh-bells/hit-1.wav",
-			"sleigh-bells/hit-2.wav"
-		]
-	},
-	"sleigh_bell_shake": {
-		"name": "Sleigh Bell - Shake",
-		"samples": [
-			"sleigh-bells/shake-1.wav",
-			"sleigh-bells/shake-2.wav"
+			"sleigh-bells.wav"
 		]
 	},
 	"snare": {
 		"name": "Snare",
 		"samples": [
-			"snare/normal-1.wav",
-			"snare/normal-2.wav",
-			"snare/normal-3.wav",
-			"snare/normal-4.wav",
-			"snare/normal-5.wav",
-			"snare/normal-6.wav",
-			"snare/normal-7.wav",
-			"snare/normal-8.wav",
-			"snare/normal-9.wav",
-			"snare/normal-10.wav"
-		]
-	},
-	"snare_rim": {
-		"name": "Snare - Rim",
-		"samples": [
-			"snare/rim-1.wav",
-			"snare/rim-2.wav",
-			"snare/rim-3.wav"
-		]
-	},
-	"snare_trill": {
-		"name": "Snare - Trill",
-		"samples": [
-			"snare/trill-1.wav",
-			"snare/trill-2.wav",
-			"snare/trill-3.wav"
+			"snare.wav"
 		]
 	},
 	"splash_cymbal": {
 		"name": "Splash Cymbal",
 		"samples": [
-			"splash-cymbal/normal-1.wav",
-			"splash-cymbal/normal-2.wav",
-			"splash-cymbal/normal-3.wav",
-			"splash-cymbal/normal-4.wav",
-			"splash-cymbal/normal-5.wav"
-		]
-	},
-	"splash_cymbal_short": {
-		"name": "Splash Cymbal - Short",
-		"samples": [
-			"splash-cymbal/short-1.wav",
-			"splash-cymbal/short-2.wav",
-			"splash-cymbal/short-3.wav"
-		]
-	},
-	"splash_cymbal_tap": {
-		"name": "Splash Cymbal - Tap",
-		"samples": [
-			"splash-cymbal/tap-1.wav"
+			"splash-cymbal.wav"
 		]
 	},
 	"stick": {
 		"name": "Stick",
 		"samples": [
-			"stick-hits/normal-1.wav",
-			"stick-hits/normal-2.wav",
-			"stick-hits/normal-3.wav"
+			"stick-hit.wav"
 		]
 	}
 }
