@@ -37,6 +37,24 @@
 			"claps/snappy-1.wav"
 		]
 	},
+	"cowbell": {
+		"name": "Cowbell",
+		"samples": [
+			"cowbell/normal-1.wav",
+			"cowbell/normal-2.wav",
+			"cowbell/normal-3.wav",
+			"cowbell/normal-4.wav",
+			"cowbell/normal-5.wav",
+			"cowbell/normal-6.wav"
+		]
+	},
+	"cowbell_mute": {
+		"name": "Cowbell - Mute",
+		"samples": [
+			"cowbell/mute-1.wav",
+			"cowbell/mute-2.wav"
+		]
+	},
 	"crash_cymbal_hit": {
 		"name": "Crash Cymbal - Hit",
 		"samples": [
